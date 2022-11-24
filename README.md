@@ -1,1 +1,2 @@
 # web_tech_coursework
+The following website was made for the well-known travel agency "Mysterious Uzbekistan". This company is expanding quickly in the ecotourism and mountain tourist markets. The design of the website was inspired by a tutorial on a Travel Agency Website Design published by Mr.Web Designer. Nevertheless, code was custom-made for this project and many elements of the design were changed. All pictures and a video were taken from social medial accounts of the company, such as instagram, telegram pages and their official website.    
